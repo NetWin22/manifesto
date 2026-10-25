@@ -9,15 +9,5 @@ window.ARCHIVE = [
     "verified": true,
     "date": "24/10/2026",
     "text": "How I do... In May 1968 students in Paris occupied universities and clashed with police, and the movement spread to workers across the country."
-  },
-  {
-    "href": "pages/what-is-manifesto.html",
-    "title": "What is manifesto?",
-    "description": "Learn more about us here!",
-    "keywords": "",
-    "source": "Manifesto",
-    "verified": true,
-    "date": "25/10/2026",
-    "text": "How I do... In May 1968 students in Paris occupied universities and clashed with police, and the movement spread to workers across the country."
   }
 ];
