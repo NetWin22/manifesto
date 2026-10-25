@@ -2,12 +2,22 @@
 window.ARCHIVE = [
   {
     "href": "pages/how-to-upload-on-manifesto.html",
-    "title": "How to upload a page/image/video on Manifesto?",
-    "description": "If you are curios to know how to upload a page/image/video on manifesto, just click here!",
+    "title": "How to Upload Content on Manifesto",
+    "description": "Learn how to upload pages, images, and videos on Manifesto.",
     "keywords": "",
     "source": "Manifesto",
-    "verified": true,
-    "date": "24/10/2026",
-    "text": "How I do... In May 1968 students in Paris occupied universities and clashed with police, and the movement spread to workers across the country."
+    "verified": false,
+    "date": "2026-10-24",
+    "text": "How to Upload Content on Manifesto A short guide to submitting pages, images, and videos to Manifesto. Written by the Manifesto Founder How can I upload a page? You can submit a page in one of the following formats: HTML file You can submit an HTML file with inline CSS and no JavaScript. Images, videos, and custom fonts can be included in a ZIP archive together with your HTML file. HTML submissions will be reviewed manually before publication. TXT or Markdown file You can also submit a plain-text file ( .txt ) or a Markdown file ( .md ). These formats are suitable for articles, guides, and other text-based content. How to submit Prepare your file in a supported format. Put the necessary assets in a ZIP archive if needed. Send your submission through our Telegram bot. Wait for our team to review it. Submit a page via Telegram Bot How can I upload an image or video? Simply send your image or video through our Telegram Bot, the name you want to put in the author, a short description, and a title. No additional files or preparation are needed. Open our Telegram Bot. Send the image or video you want to share with the details required. Wait for verification and approval. Submit an image or video via Telegram Bot Submission rules Only submit content you have permission to share. Respect other people's privacy and rights. HTML submissions must not contain JavaScript. Make sure your files follow the required formats. Do not submit sexual content, pure gore, contents meant to hurt someone just to publish it online. Submissions may be rejected after review. The moderators HAVE the right to decide to remove a content EVEN after is approved, this is for safety reason only, and an explenation WIL be given. Submitting content does not guarantee publication. All submissions are subject to review. Questions? Contact us through our Telegram Bot."
+  },
+  {
+    "href": "pages/what-is-manifesto.html",
+    "title": "What is Manifesto?",
+    "description": "Learn more about us here!",
+    "keywords": "",
+    "source": "Manifesto",
+    "verified": false,
+    "date": "2026-10-25",
+    "text": "What is Manifesto? A short description. Written by the Manifesto Founder What is Manifesto? Manifesto is like the Google of the revolutions, protest, riots, and can be used for free by everyon to publish your content, from guides to videos, from stories to calendars for riots. How to submit? Read this article or Submit a page via Telegram Bot Questions? Contact us through our Telegram Bot."
   }
 ];
